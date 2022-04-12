@@ -1,6 +1,6 @@
-# receipt-verfification-blockchain
+# receipt-verification-blockchain
 
-This is a simple proof-of-concept system to show how a blockchain-based receipt verification system can be used for filing taxes.
+This is a simple proof-of-concept web-based system to show how a blockchain-based receipt verification system can be used for filing taxes.
 
 System pre-requisites
 1. Truffle
