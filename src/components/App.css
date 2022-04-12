@@ -1,0 +1,29 @@
+
+body {   
+  background: linear-gradient(to bottom, #2980b9, #6dd5fa, #ffffff);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  margin: 0;
+  background-attachment: fixed;
+  }
+
+  .shadow-box-example {
+    height: 120px;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+  }
+
+  .page-section{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.homepage{
+
+}
+
+
+ 
