@@ -10,6 +10,9 @@ System pre-requisites
 5. Web3.js
 6. Metamask wallet browser extension
 
+Deployed at Heroku!
+https://blockchain-receipt-dapp.herokuapp.com/home
+
 
 ## 🔧 Project Diagram:
 ![Project Diagram](https://user-images.githubusercontent.com/34343843/162890793-cc9af9cc-7395-42e2-b4df-3ae227e44b0e.png)
